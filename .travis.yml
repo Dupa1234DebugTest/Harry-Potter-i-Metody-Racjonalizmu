@@ -1,8 +1,18 @@
 sudo: required
 dist: trusty
 before_install:
-- sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra texlive-latex-recommended aspell-pl pandoc rubber make
+- sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-fonts-recommended
+  texlive-latex-extra texlive-fonts-extra texlive-latex-recommended texlive-lang-polish
+  aspell-pl pandoc rubber make
 script:
 - mkdir _build
 - make
 - make test
+deploy:
+  provider: releases
+  api_key:
+    secure: lTlFFksVZSpLQZGQp2EOT2YKa73gaDOw39YNdMwoODUSyl6g5Fo+JTRX8kjuFaViNizxqcIvrxyVQ3pxvp5GK9h3nglkUNTEFiOmBjLI9Mj7SN+IKJ2xGbf9lIEsYI3HGO4bHEIfDsqct1LGqJsLQiMMXd2T5a5kFMB0fm4M1SX3pFA7nRKQaY6NPwgegyRGNooQ3BwluAMhDZTE88KgKh38AyQ5sVsRQA2XpmE5Vx7HOpfcenZyO0iLDD2gJ/DlUBwFdNGQPv4bh224A5UECKZDKgu+Huftlg4yr/fJVUGRrl7MhiD7ANX2ZbYltkF9nsCUVly4/yxLrxWDg3lDndYvrCzk9gxDawyZI1hWuR+Y9/3syJXyELGESz9rtEzMTA1V7g65cqnD2SOrsYpvKg3O4vAiHcrJM/QGzlJHehKgnrTLfwzX8qIXHixlDKgFtpNXQ29IRlOqdqUTicTlobKIoGNGxyG5ar8DXC3LygP3BDAWuWiOmTyrAfaje2Wo4kjWrhgyj1hNC7w6HfxPFFfYPmhmnPlA2Ln0djTKdzOT6GfBiV1Ft3RtEuOaxRy8Sm9SjDteLyJco+HdQgMq5fBL64B63NofUFzbce77HCfxzD4BwZA7WjvkA5ifHjW4tVby0w+74UFrhX1o212Oj1IwiNxpvYDIo1Q5nKqDKS0=
+  file: Harry_Potter_i_Metody_Racjonalizmu.pdf
+  on:
+    repo: Dupa1234DebugTest/Harry-Potter-i-Metody-Racjonalizmu
+    branch: makefiles
