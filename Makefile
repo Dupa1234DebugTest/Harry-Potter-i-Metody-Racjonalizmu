@@ -21,7 +21,7 @@ all: $(TARGET)
 	$(SED) -n 's/\\include{\([^}]*\)}/$*.pdf: \1.tex/gp' $< > $@
 
 %.md.tex: %.md
-	$(PANDOC) --top-level-division=chapter $< -o $@
+	$(PANDOC) --chapters $< -o $@
 
 %.pdf: %.tex
 	$(RUBBER) --pdf $<
