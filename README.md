@@ -24,6 +24,8 @@ $math$
 
 --- - pauza
 
+"\\ " - niełamalna spacja (dobrze jest ją stawiać pomiędzy wyrazami, które nie powinny być oddzielone nową linią, typu za jednoliterowymi słowami, **nie przenoś słów za pomocą znaku końca linii**)
+
 ### Uwagi
 
 Początek musi przylegać do pierwszej litery tekstu a koniec do ostatniej (\*\***cośtam**\*\* i \*\***cośtam**\*\* zamiast \*\***cośtam** \*\*i\*\* **cośtam**\*\*)
