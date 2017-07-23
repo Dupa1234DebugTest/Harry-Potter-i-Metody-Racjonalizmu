@@ -6,6 +6,9 @@ RUBBER ?= rubber
 SED ?= sed
 ASPELL ?= aspell
 
+LANG = pl
+ASPELL_PERSONAL = ./.aspell.ignore
+
 TEXS = $(filter-out %.md.tex,$(wildcard *.tex))
 DEPS = $(TEXS:=.dep)
 MDS = $(wildcard *.md)
@@ -32,8 +35,23 @@ clean:
 	$(RM) *.dep
 	$(RM) *.md.tex
 
-check:
-	$(ASPELL) check 
+test: $(addprefix __test__,$(TEXS) $(MDS))
+
+__test__%.tex:
+	@echo "Test $*.tex"
+	@if $(ASPELL) --encoding=utf-8 --lang=$(LANG) --personal=$(ASPELL_PERSONAL) --mode tex list < $*.tex | grep . ; then echo "SPELLCHECK FAILED FOR $*.md"; false; else true; fi
+
+__test__%.md:
+	@echo "Test $*.md"
+	@if $(ASPELL) --encoding=utf-8 --lang=$(LANG) --personal=$(ASPELL_PERSONAL) list < $*.md | grep . ; then echo "SPELLCHECK FAILED FOR $*.md"; false; else true; fi
+
+check: $(addprefix __check__,$(TEXS) $(MDS))
+
+__check__%.tex:
+	$(ASPELL) --encoding=utf-8 --lang=$(LANG) --personal=$(ASPELL_PERSONAL) --mode tex check $*.tex
+
+__check__%.md:
+	$(ASPELL) --encoding=utf-8 --lang=$(LANG) --personal=$(ASPELL_PERSONAL) check $*.md
 
 .PHONY: all clean
 .DEFAULT_GOAL = all
