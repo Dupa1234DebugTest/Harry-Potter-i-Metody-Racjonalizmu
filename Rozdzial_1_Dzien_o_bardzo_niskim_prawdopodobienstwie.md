@@ -129,3 +129,5 @@ Krzyczenie *List do Hogwartu!*, trzymając kopertę w\ powietrzu na środku jego
 -- Ale ty nie *masz* sowy. Biedactwo! Nie mogę sobie wyobrazić, *co* oni sobie myśleli, wysyłając ci po prostu standardowy list! -- Pomarszczona ręka wyciągnęła się nad płotem i\ otworzyła oczekującą dłoń. Praktycznie wcale w\ tym momencie nie myśląc, Harry podał swoją kopertę. -- Po prostu zostaw to mnie, skarbie -- powiedział pani Figg. -- I\ za momencik lub dwa kogoś ci znajdę. -- Jej twarz zniknęła znad płotu. W\ ogrodzie zaległa długa cisza. A\ potem cichy i\ spokojny głos chłopca powiedział:
 
 -- Co?
+
+No i chciałbym coś tutaj dopisać
