@@ -4,7 +4,7 @@ Każdy cal ściany zakryty jest regałami. Każdy regał ma sześć półek, pra
 
 To jest pokój dzienny domu zajmowanego przez wybitnego profesora Michaela Verresa-Evansa i\ jego żonę, Petunię Evans-Verres, oraz ich adoptowanego syna, Harry'ego Jamesa Pottera-Verresa-Evansa.
 
-Na salonowym stole leży również list, obok koperta z\ żółtawego pergaminu, bez znaczka, zaadresowana do *Pana H. Pottera* szmaragdowozielonym atramentem.
+Na salonowym stole leży również list obok koperta z\ żółtawego pergaminu bez znaczka zaadresowana do *Pana H. Pottera* szmaragdowozielonym atramentem.
 
 Profesor i\ jego żona rozmawiają ostro, ale nie krzyczą. Profesor uważa krzyczenie za niecywilizowane.
 
@@ -12,16 +12,17 @@ Profesor i\ jego żona rozmawiają ostro, ale nie krzyczą. Profesor uważa krzy
 
 -- Moja siostra była czarownicą -- powtórzyła Petunia. Wyglądała na przerażoną, ale upierała się przy swoim. -- Jej mąż był czarodziejem.
 
--- To jakiś absurd! -- powiedział ostro Michael. -- Byli na naszym weselu -- odwiedzili nas na święta…
+-- To jakiś absurd! -- powiedział ostro Michael. -- Byli na naszym weselu, odwiedzili nas na święta…
 
--- Mówiłam im, że nie możesz wiedzieć -- szepnęła. -- Ale to prawda. Widziałam to. -- Profesor przewrócił oczami.
+-- Mówiłam im, że nie możesz wiedzieć -- szepnęła. -- Ale to prawda. Widziałam to -- Profesor przewrócił oczami.
 
 -- Skarbie, rozumiem, że nie jesteś zaznajomiona ze sceptycyzmem. Możesz sobie nawet nie wyobrażać, jak łatwo jest wyćwiczonemu magikowi podrobić coś, co wydaje się niemożliwe. Pamiętasz, jak nauczyłem Harry'ego wyginać łyżkę? Jeśli to wyglądało, jakby oni zawsze wiedzieli, co myślisz, to nazywa się to zimnym odczytem…
 
 -- To nie było wyginanie łyżek.
 
 -- Co to było, w\ takim razie? -- Petunia ugryzła się w\ wargę. 
--- Nie mogę ci po prostu powiedzieć. Pomyślisz, że jestem… -- przełknęła. -- Posłuchaj. Michael. Nie zawsze tak wyglądałam -- machnęła ręką na siebie, wskazując na swoje gibkie kształty. -- Lily to zrobiła. Ponieważ ja -- ponieważ ją o\ to *błagałam*. Przez lata, błagałam ją. Lily *zawsze* była ładniejsza ode mnie i\ ja… byłam dla niej złośliwa, właśnie dlatego, a\ wtedy okazało się, że ma *magię*, możesz sobie wyobrazić, jak się czułam? I\ *błagałam* ją, żeby użyła trochę swojej magii na mnie, żebym mogła być również ładna, nawet jeśli nie mogłam mieć jej magii, mogłam być chociaż ładna. -- W\ oczach Petunii zebrały się łzy. -- A\ Lily odmawiała, wyszukując najdziwaczniejsze wymówki, jakby jej świat się skończył, gdyby była miła dla swojej siostry albo centaur powiedział jej, żeby tego nie robiła -- najdziwaczniejsze rzeczy i\ nienawidziłam jej za to. Zaraz po ukończeniu uniwersytetu umawiałam się z\ tym chłopakiem, Vernonem Dursleyem, był gruby i\ był jedynym chłopcem, który chciał ze mną rozmawiać. I\ powiedział, że chciał mieć dzieci i\ że swojego pierwszego syna nazwie Dudley. Pomyślałam sobie "Jaki rodzic nazywa dziecko Dudley Dursley?". To było, jakbym zobaczyła całe moje przyszłe życie rozciągnięte przede mną i\ nie mogłam tego znieść. I\ napisałam do mojej siostry, że jeśli mi nie pomoże, to wolę już... -- Petunia urwała. -- W\ każdym razie -- powiedziała cicho. -- Poddała się. Powiedziała mi, że to niebezpieczne, a\ ja powiedziałam, że już mnie to nie obchodzi, i\ wypiłam ten eliksir, i\ chorowałam tygodniami, ale kiedy poczułam się lepiej, moja cera się oczyściła, a\ ja w\ końcu się zaokrągliłam i… Byłam piękna, ludzie byli dla mnie *mili*. -- Jej głos się załamał. -- I\ później, po tym, nie mogłam już nienawidzić mojej siostry, szczególnie, kiedy się dowiedziałam, ile w\ końcu warta była jej magia...
+
+-- Nie mogę ci po prostu powiedzieć. Pomyślisz, że jestem… -- przełknęła. -- Posłuchaj. Michael. Nie zawsze tak wyglądałam -- machnęła ręką na siebie, wskazując na swoje gibkie kształty. -- Lily to zrobiła. Ponieważ ja -- ponieważ ją o\ to *błagałam*. Przez lata, błagałam ją. Lily *zawsze* była ładniejsza ode mnie i\ ja… byłam dla niej złośliwa, właśnie dlatego, a\ wtedy okazało się, że ma *magię*, możesz sobie wyobrazić, jak się czułam? I\ *błagałam* ją, żeby użyła trochę swojej magii na mnie, żebym mogła być również ładna, nawet jeśli nie mogłam mieć jej magii, mogłam być chociaż ładna -- W\ oczach Petunii zebrały się łzy. -- A\ Lily odmawiała, wyszukując najdziwaczniejsze wymówki, jakby jej świat się skończył, gdyby była miła dla swojej siostry albo centaur powiedział jej, żeby tego nie robiła -- najdziwaczniejsze rzeczy i\ nienawidziłam jej za to. Zaraz po ukończeniu uniwersytetu umawiałam się z\ tym chłopakiem, Vernonem Dursleyem, był gruby i\ był jedynym chłopcem, który chciał ze mną rozmawiać. I\ powiedział, że chciał mieć dzieci i\ że swojego pierwszego syna nazwie Dudley. Pomyślałam sobie "Jaki rodzic nazywa dziecko Dudley Dursley?". To było, jakbym zobaczyła całe moje przyszłe życie rozciągnięte przede mną i\ nie mogłam tego znieść. I\ napisałam do mojej siostry, że jeśli mi nie pomoże, to wolę już… -- Petunia urwała. -- W\ każdym razie -- powiedziała cicho. -- Poddała się. Powiedziała mi, że to niebezpieczne, a\ ja powiedziałam, że już mnie to nie obchodzi, i\ wypiłam ten eliksir, i\ chorowałam tygodniami, ale kiedy poczułam się lepiej, moja cera się oczyściła, a\ ja w\ końcu się zaokrągliłam i… Byłam piękna, ludzie byli dla mnie *mili* -- Jej głos się załamał. -- I\ później, po tym, nie mogłam już nienawidzić mojej siostry, szczególnie, kiedy się dowiedziałam, ile w\ końcu warta była jej magia…
 
 -- Kochanie -- powiedział Michael delikatnie. -- Zachorowałaś, przybrałaś na wadze, kiedy odpoczywałaś w\ łóżku, a\ twoja cera po prostu się oczyściła sama z\ siebie. Albo przez to, że byłaś chora, zmieniłaś swoją dietę…
 
@@ -41,7 +42,7 @@ Profesor i\ jego żona rozmawiają ostro, ale nie krzyczą. Profesor uważa krzy
 
 -- A… -- powiedziała Petunia. -- Nie wysłali im tylko listu. Wysłali nauczyciela z\ Hogwartu. On... -- Zerknęła na Michaela. -- On pokazał nam trochę magii.
 
--- Więc nie musicie się o\ to kłócić. -- powiedział poważnie Harry, mając złudną nadzieję, że choć raz go posłuchają. -- Jeśli to prawda, po prostu ten nauczyciel tu przyjedzie i\ pokaże nam magię, a\ tata przyzna, że to prawda. Jeśli nie, mama przyzna, że to jest nieprawda. To jest to, po co istnieją eksperymenty, tak że nie musimy rozwiązywać rzeczy po prostu się kłócąc. -- Profesor odwrócił się i\ spojrzał w\ dół na niego, jak zwykle lekceważąco.
+-- Więc nie musicie się o\ to kłócić. -- powiedział poważnie Harry, mając złudną nadzieję, że choć raz go posłuchają. -- Jeśli to prawda, po prostu ten nauczyciel tu przyjedzie i\ pokaże nam magię, a\ tata przyzna, że to prawda. Jeśli nie, mama przyzna, że to jest nieprawda. To jest to, po co istnieją eksperymenty, tak że nie musimy rozwiązywać rzeczy po prostu się kłócąc -- Profesor odwrócił się i\ spojrzał w\ dół na niego, jak zwykle lekceważąco.
 
 -- Och, daj spokój Harry. Naprawdę, *magia*? Myślałem, że *ty* będziesz wiedzieć lepiej, że nie weźmiesz tego na serio, synu, nawet jeśli masz tylko dziesięć lat. Magia to po prostu najmniej naukowa rzecz, jaka istnieje! -- Harry wykrzywił się gorzko. Traktował go dobrze, prawdopodobnie lepiej, niż większość genetycznych ojców traktuje swoje dzieci. Chłopiec został wysłany do najlepszej szkoły podstawowej, a\ kiedy to nie zdało egzaminu -- był uczony przez najlepszych korepetytorów z\ niekończącej się puli głodujących studentów. Zawsze był zachęcany do uczenia się czegokolwiek, co zwróciło jego uwagę, kupienia wszystkich książek, na które miał ochotę, brania udziału we wszystkich przyrodniczych czy matematycznych konkursach i\ były one zawsze opłacane. Dostawał wszystkie rozsądne rzeczy, jakie chciał, oprócz, może, odrobiny szacunku. Po doktorze wykładającym biochemię na Oxfordzie nie należało się za bardzo spodziewać słuchania rad małego chłopca. Oczywiście słuchałby, aby Pokazać Zainteresowanie, jeśli uważałby się za Dobrego Rodzica, zrobiłby tak. Ale wzięcie dziesięciolatka na poważnie? W\ życiu.
 
@@ -100,14 +101,15 @@ Harry dodał ich aktualny adres, po czym złożył list i\ włożył go do koper
 Otworzył drzwi i\ zszedł po schodach. Jego ojciec siedział w\ salonie i\ czytał książkę o\ matematyce wyższej, żeby pokazać, jak bardzo jest mądry, a\ jego mama robiła w\ kuchni jeden z\ ulubionych posiłków taty, by pokazać, jak bardzo go kocha. Wyglądało na to, że w\ ogóle ze sobą nie rozmawiali. Niezależnie od tego, jak straszna potrafiła być kłótnia, *brak kłótni* był jakimś cudem dużo gorszy. 
 
 -- Mamo -- powiedział Harry, przerywając denerwującą ciszę. -- Mam zamiar przetestować moją hipotezę. Według twojej teorii, jak mogę wysłać sowę do Hogwartu? -- Mama odwróciła się od zlewu. Popatrzyła na niego, wyglądając na zszokowaną.
--- N-Nie wiem. Myślę, że po prostu musisz mieć magiczną sowę. -- To powinno brzmieć bardzo podejrzanie, *o, więc nie ma możliwości, żeby sprawdzić twoją teorię*, ale osobliwa pewność w\ Harrym zdawała się przyczepić do niego na stałe.
--- Cóż, list jakoś się tu dostał -- powiedział Harry. -- Więc po prostu będę machał tym na zewnątrz i\ wolał 'list do Hogwartu' i\ czekał, czy jakaś sowa go weźmie. Tato, chcesz popatrzeć?". -- Jego ojciec potrząsnął głową skrupulatnie i\ kontynuował czytanie. *Oczywiście*, pomyślał Harry. Magia była haniebną rzeczą, w\ którą wierzyli tylko głupi ludzie; jeśli jego ojciec zdecydowałby się pójść tak daleko i\ *przetestować* hipotezę, albo chociaż *patrzeć*, jak ktoś ją testuje, to byłoby, jakby *dołączał* do tego…
+-- N-Nie wiem. Myślę, że po prostu musisz mieć magiczną sowę -- To powinno brzmieć bardzo podejrzanie, *o, więc nie ma możliwości, żeby sprawdzić twoją teorię*, ale osobliwa pewność w\ Harrym zdawała się przyczepić do niego na stałe.
+-- Cóż, list jakoś się tu dostał -- powiedział Harry. -- Więc po prostu będę machał tym na zewnątrz i\ wolał 'list do Hogwartu' i\ czekał, czy jakaś sowa go weźmie. Tato, chcesz popatrzeć?". -- Jego ojciec potrząsnął głową skrupulatnie i\ kontynuował czytanie. *Oczywiście*, pomyślał Harry. Magia była haniebną rzeczą, w\ którą wierzyli tylko głupi ludzie, jeśli jego ojciec zdecydowałby się pójść tak daleko i\ *przetestować* hipotezę, albo chociaż *patrzeć*, jak ktoś ją testuje, to byłoby, jakby *dołączał* do tego…
 
-Kiedy tylko Harry wyszedł przez tylko drzwi do tylnego ogrodu, pomyślał, że jeśli jakaś sowa rzeczywiście przyleciała i\ wyrwała mu list, będzie miał dużo więcej problemów z\ powiedzeniem o\ tym tacie.
+Kiedy tylko Harry wyszedł przez tylko drzwi do tylnego ogrodu, pomyślał, że jeśli jakaś sowa rzeczywiście by przyleciała i\ wyrwała mu list, będzie miał dużo więcej problemów z\ powiedzeniem o\ tym tacie.
 
 *Ale -- cóż -- to nie może się* naprawdę *zdarzyć, prawda? Nieważne, w\ co mój mózg zdaje się wierzyć. Jeśli jakaś sowa rzeczywiście przyleci i\ złapie kopertę, będę miał zdecydowanie większe problemy niż to, co tata na ten temat myśli*.
 
 Harry wziął głęboki wdech i\ uniósł kopertę w\ powietrze.
+
 Przełknął ślinę.
 
 Krzyczenie *List do Hogwartu!*, trzymając kopertę w\ powietrzu na środku jego tylnego ogrodu, było… w\ zasadzie dosyć zawstydzające, teraz, kiedy o\ tym pomyślał. 
